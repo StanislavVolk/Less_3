@@ -5,7 +5,7 @@ public class Palindrome {
 
         Palindrome palindrome = new Palindrome();
 
-        String input = "Poor Dan is in a droop";
+        String input = "a RoZa upala na laPu aZora";
 
 
 
